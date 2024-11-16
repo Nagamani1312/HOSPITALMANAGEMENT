@@ -61,7 +61,7 @@ The Dashboard page allows patients to perform two operations:
 
 1. Book his/her appointment:
 
-      Here, the patients can able to book their appointments to see a doctor. The appointment form(Fig 1.6) requires patients to select the doctor that they want to see, Date and Time that they want to meet with the doctor. The consultancy fee will be shown accordingly to the patient as it was already determined by the doctor.
+      Here, the patients can able to book their appointments to see a doctor. The appointment form requires patients to select the doctor that they want to see, Date and Time that they want to meet with the doctor. The consultancy fee will be shown accordingly to the patient as it was already determined by the doctor.
 ![bookappointment](https://github.com/user-attachments/assets/be9277f5-78b6-4d7f-9fc3-25892e64b3fb)
 
 
@@ -75,7 +75,6 @@ The Dashboard page allows patients to perform two operations:
 
  Once the patient has logged out of his account, if he wants to go into his account again, he can login his account, instead of register his account again.
 2. View patients’ prescriptions:
-
       Here, the patient can see their prescriptions history which are given by particular doctor.
 
  Once the patient has logged out of his account, if he wants to go into his account again, he can login his account, instead of register his account again.
@@ -168,17 +167,20 @@ SAP Business Application Studio: Development environment.
 
 #### Fork the repository.
 Create a new branch:
-bash
-Copy code
+```
 git checkout -b feature-name
+
+```
 Commit your changes:
-bash
-Copy code
+```
 git commit -m "Add your message here"
+
+```
+
 Push the changes:
-bash
-Copy code
+
 git push origin feature-name
+
 Open a pull request.
 
 
