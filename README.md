@@ -161,8 +161,11 @@ Now if we login to the doctor Ganesh's account and view his appointment details.
 
  #### Technologies Used
 SAPUI5: Framework for developing the front-end.
+
 OData Services: For backend integration.
+
 HTML/CSS/JavaScript: Additional customizations.
+
 SAP Business Application Studio: Development environment.
 
 #### Fork the repository.
