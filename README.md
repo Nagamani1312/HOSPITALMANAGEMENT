@@ -153,8 +153,39 @@ If the patient deletes the last record (for doctor Ganesh), then a label "delete
 Now if we login to the doctor Ganesh's account and view his appointment details.The doctors can also delete their appointments and patients can view their updated appointment details.
 ![appointments](https://github.com/user-attachments/assets/14ba3c11-0d75-4235-ad83-37c69e0a2a3f)
 
+
 5. Remove Doctors by Admin
       Admin can also delete the doctors from the system. This let admin to have more control over the system.
 ![delete doctor](https://github.com/user-attachments/assets/26841d24-5900-4835-9ac9-4496f5c7b44f)
 
       Taking everything into consideration, admin can able to view the details of patients and doctors, appointment details,delete a doctor and can add a new doctor. Once everything is done, the admin can logout from his account.
+
+ #### Technologies Used
+SAPUI5: Framework for developing the front-end.
+OData Services: For backend integration.
+HTML/CSS/JavaScript: Additional customizations.
+SAP Business Application Studio: Development environment.
+
+#### Fork the repository.
+Create a new branch:
+bash
+Copy code
+git checkout -b feature-name
+Commit your changes:
+bash
+Copy code
+git commit -m "Add your message here"
+Push the changes:
+bash
+Copy code
+git push origin feature-name
+Open a pull request.
+
+
+#### Contact
+For queries, please contact:9390297361
+
+Email: manigolajana@gmail.com
+GitHub:https://github.com/Nagamani1312
+
+
