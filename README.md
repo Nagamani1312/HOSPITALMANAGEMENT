@@ -178,8 +178,9 @@ git commit -m "Add your message here"
 ```
 
 Push the changes:
-
+```
 git push origin feature-name
+```
 
 Open a pull request.
 
