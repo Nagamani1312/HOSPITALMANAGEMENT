@@ -40,7 +40,7 @@ An SAP Fiori application.
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
 
-GETTING INTO THE PROJECT:
+####GETTING INTO THE PROJECT:
 
 Hospital Management System in Fiori. This system has a ‘Home’ page from where the patient, doctor & administrator can login into their accounts by toggling the tabs accordingly. 
 The ‘Home’ page consists of 3 modules:
@@ -50,7 +50,7 @@ The ‘Home’ page consists of 3 modules:
 ![image](https://github.com/user-attachments/assets/7e16b95d-5611-4feb-bdd1-86476c6d710a)
 
 
-Patient Module:
+##Patient Module:
       This module allows patients to create their account, book an appointment to see a doctor and see their appointment history. The registration page(in the home page itself) asks patients to enter their First Name, Last Name, Email ID, Contact Number, Password and radio buttons to select their gender.
 
 Once the patient has created his/her own account after clicking the ‘Register’ button, then he will be redirected to his/her Dashboard.
@@ -82,7 +82,7 @@ The Dashboard page allows patients to perform two operations:
 
 This is how the patient module works. On the whole, this module allows patients to register their account or login their account(if he/she has one), book an appointment and view his/her appointment history and prescriptions given by doctor.
 
-Doctor Module:
+##Doctor Module:
       The doctors can login into their account which can be done by toggling the tab from ‘Patient’ to ‘Doctor’. The figure shows the login form for a doctor. Registration of a doctor account can be done only by admin. We will discuss more about this in Admin Module.
 ![doctor login](https://github.com/user-attachments/assets/0e6d316a-f78f-40b0-96ff-4dbc5f1b8d1c)
 
@@ -101,7 +101,7 @@ In this page, doctor can able to see their appointments which has been booked by
 In this page, doctor can able to give prescriptions to the patients .  shows the appointment of the doctor ‘Ganesh’ which has been booked by the patient ‘Ram’. This means that the doctor ‘Ganesh’ will have an appointment with the patient ‘Ram’ on some particular date and he can can either cancel the appointment or can accept the appaointment.
 ![prescriptiongiven](https://github.com/user-attachments/assets/8451042d-6609-46ed-bada-77dda9ccc4fd)
 
-Admin Module:
+##Admin Module:
       This module is the heart of our project where an admin can see the list of all patients. Doctors and appointments. Also admin can add doctor too.Login into admin account can be done by toggling into admin tab of the Home page. 
 ![image](https://github.com/user-attachments/assets/559516bc-37b3-4389-892e-9068ed247ecd)
 
